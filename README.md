@@ -103,3 +103,6 @@ Uses an in-memory SQLite database; covers auth, RBAC, users, projects, members, 
 - **Activity logs are written in the same transaction** as the change they describe, so history never drifts.
 - **Deactivation is enforced on every request** (not only at login), so existing tokens stop working immediately.
 - Possible next steps: refresh tokens, WebSocket notifications, email on assignment, file attachments.
+
+-- Nagi Reddy Gnana Sudarshan Reddy
+-- Python Developer
