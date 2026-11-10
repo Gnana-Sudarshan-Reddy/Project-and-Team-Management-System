@@ -1,4 +1,4 @@
-# Project & Team Management API
+# Project & Team Management
 
 A modular **FastAPI + SQLAlchemy + Alembic** backend for managing projects, tasks and teams, with JWT authentication and role-based access control (Admin, Project Manager, Team Member).
 
